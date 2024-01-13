@@ -1,0 +1,27 @@
+* {
+  font-family: Vazirmatn, sans-serif;
+}
+
+.bg-primary {
+  background-color: #92e3a9 !important;
+}
+
+.text-warning {
+  color: #fbc93f !important;
+}
+
+.bg-contact {
+  background-color: #d1e7dd;
+}
+
+.Info {
+  width: 300px;
+  height: 120px;
+  background-color: #92e3a9;
+  position: absolute;
+  right: 0px;
+  top: -150px;
+  border-radius: 30% 0;
+  text-align: center;
+  padding: 10px;
+}
